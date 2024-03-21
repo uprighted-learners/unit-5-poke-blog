@@ -19,6 +19,12 @@ We will also learn to use an API-testing tool called [Postman](https://postman.c
 
 `pokemon.json` stores our data. While we will practice posting data, please note that we will not actually update this file from the API.
 
+### Create a Server with Express
+
+- [ ] Install the project's dependencies using `npm install`
+- [ ] Start the server by running `index.js` using `npm run dev`.
+- [ ] Visit your running server at `http://localhost:3000` with a web browser.
+
 ## Server Setup
 
 - Add the routes to fulfill the above list. 
