@@ -43,7 +43,7 @@ We will also learn to use an API-testing tool called [Postman](https://postman.c
 
 # Make a New Pokemon `/pokemon`
 
-- We'll need to add a middleware before we can read the JSON body from our request: `app.use(express.json)`
+- We'll need to add a middleware before we can read the JSON body from our request: `app.use(express.json())`
 - Flesh out your `/pokemon` route for the POST request.
 - You don't have a database, so you'll "pretend" to save the data for now.
   - Check to make sure the data from the client has the minimum requirements to make a new pokemon
