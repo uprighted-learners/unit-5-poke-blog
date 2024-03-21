@@ -23,7 +23,6 @@ We will also learn to use an API-testing tool called [Postman](https://postman.c
 
 - [ ] Install the project's dependencies using `npm install`
 - [ ] Start the server by running `index.js` using `npm run dev`.
-- [ ] Visit your running server at `http://localhost:3000` with a web browser.
 
 ## Server Setup
 
