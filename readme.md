@@ -1,8 +1,8 @@
-# LAB: Let's Practice Using Data in Express!
+# exercise: Let's Practice Using Data in Express!
 
 ## Welcome!
 
-We are going to add to the API from our previous lab to make requests using the 3 different types of data we can pass via a request: `req.params`, `req.query`, and `req.body`.
+We are going to add to the API from our previous exercise to make requests using the 3 different types of data we can pass via a request: `req.params`, `req.query`, and `req.body`.
 
 We will also learn to use an API-testing tool called [Postman](https://postman.co) (< click this), so that we do not need to have a frontend at all. Yay! 🥳
 
